@@ -26,24 +26,39 @@ It generates two files:
 # Program structure 
 
 res
+
 |___spain.csv
 
 src
+
 |___csvtobinary.c
+
 |___csvtobinary.exe
+
 |___Astar_algorithm.c
+
 |___Astar_algorithm.exe
+
 |___binarySearch.h
+
 |___distanceFunction.h
+
 |___Filevalues.h
+
 |___node.h
+
 |___readBinary.h
+
 |___strsep.h
+
 |___structsAstar.h
+
 |___writeBinary.h
 
 output
+
 |___binaryDataSpain.h
+
 |___path.csv
 
 
